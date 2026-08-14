@@ -1,7 +1,6 @@
 
 
 Pressing saint joseph · HTML
-<!DOCTYPE html>
 <html lang="fr">
 <head>
 <meta charset="UTF-8">
